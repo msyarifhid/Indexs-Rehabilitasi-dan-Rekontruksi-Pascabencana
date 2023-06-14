@@ -2,7 +2,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="public/styles/images/logo/logo4.png" width="400"></a></p>
 
 
-## Portofolio Project : <a href="public/images/portofolio/PORTOFOLIO PROJECT MENGHITUNG INDEKS PEMULIHAN PASCABENCANA SISTEM INFORMASI REHABILITASI DAN REKONSTRUKSI PASCABENCANA.pdf" download target="_blank">Aplikasi Pencarian Hotel Tempat Wisata dan Tempat Kuliner</a>
+## Portofolio Project : <a href="public/images/portofolio/PORTOFOLIO PROJECT MENGHITUNG INDEKS PEMULIHAN PASCABENCANA SISTEM INFORMASI REHABILITASI DAN REKONSTRUKSI PASCABENCANA.pdf" download target="_blank">Indeks Rehabilitasi & Rekontruksi Pascabencana</a>
 
 
 <p align="center">
